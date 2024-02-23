@@ -1,6 +1,6 @@
 function arrayMin(numbers) {
   let min = numbers[0];
-  for (number of numbers) {
+  for (const number of numbers) {
     if (number < min) {
       min = number;
     }
