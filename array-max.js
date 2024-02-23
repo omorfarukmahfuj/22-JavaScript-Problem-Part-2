@@ -1,5 +1,5 @@
 function arrayMax(numbers) {
-  let max = 0;
+  let max = number[0];
   for (const number of numbers) {
     if (number > max) {
       max = number;
